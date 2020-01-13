@@ -1,2 +1,0 @@
-# egg-simple
-Egg demo
